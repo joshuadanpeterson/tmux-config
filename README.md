@@ -16,18 +16,18 @@ This Tmux configuration is designed to enhance your terminal multiplexer experie
 
 The configuration utilizes Tmux Plugin Manager (TPM) for managing plugins, with the following plugins included:
 
-- **tmux-plugins/tpm**: Tmux Plugin Manager, essential for installing and managing Tmux plugins.
-- **tmux-plugins/tmux-sensible**: Provides a set of sensible default settings for Tmux.
-- **tmux-plugins/resurrect**: Allows saving and restoring Tmux sessions across system restarts.
-- **tmux-plugins/tmux-continuum**: Automatically saves Tmux environment periodically and restores it after system restarts.
-- **tmux-plugins/tmux-pain-control**: Enhanced pane management, including resizing panes.
-- **tmux-plugins/tmux-logging**: Adds easy logging and screen capturing functionality to Tmux sessions.
-- **tmux-plugins/tmux-yank**: Integrates system clipboard with Tmux copy mode.
-- **imomaliev/tmux-keyboard-layout**: Automatically switches keyboard layout when entering and leaving Tmux.
-- **nordtheme/tmux**: Applies the Nord theme to Tmux for a clean and comfortable visual experience.
-- **erikw/tmux-powerline**: A status line configuration for Tmux that includes various status indicators.
-- **kiyoon/treemux**: Integration with Neovim, providing a sidebar for file navigation within Tmux.
-- **christoomey/vim-tmux-navigator**: Seamless navigation between Tmux panes and Vim splits.
+- **[tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)**: Tmux Plugin Manager, essential for installing and managing Tmux plugins.
+- **[tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)**: Provides a set of sensible default settings for Tmux.
+- **[tmux-plugins/resurrect](https://github.com/tmux-plugins/tmux-resurrect)**: Allows saving and restoring Tmux sessions across system restarts.
+- **[tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)**: Automatically saves Tmux environment periodically and restores it after system restarts.
+- **[tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control)**: Enhanced pane management, including resizing panes.
+- **[tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging)**: Adds easy logging and screen capturing functionality to Tmux sessions.
+- **[tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)**: Integrates system clipboard with Tmux copy mode.
+- **[imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout)**: Automatically switches keyboard layout when entering and leaving Tmux.
+- **[nordtheme/tmux](https://github.com/nordtheme/tmux)**: Applies the Nord theme to Tmux for a clean and comfortable visual experience.
+- **[erikw/tmux-powerline](https://github.com/erikw/tmux-powerline)**: A status line configuration for Tmux that includes various status indicators.
+- **[kiyoon/treemux](https://github.com/kiyoon/treemux)**: Integration with Neovim, providing a sidebar for file navigation within Tmux.
+- **[christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)**: Seamless navigation between Tmux panes and Vim splits.
 
 ## Installation and Usage
 
