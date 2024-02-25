@@ -66,7 +66,3 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 Special thanks to [jdhao's blog post](https://jdhao.github.io/2021/11/20/tmux_fuzzy_session_switch/) for inspiring the dynamic commands menu's development, and to the creators and contributors of the listed plugins for extending Tmux's capabilities.
 
 This enhanced Tmux configuration aims to provide a comprehensive terminal multiplexing experience, combining traditional features with innovative enhancements to cater to developers, system administrators, and terminal enthusiasts alike.
-
----
-
-Please replace `<REPOSITORY_URL>` with the actual URL of your Tmux configuration repository. This README provides a thorough guide for users to install, utilize, and understand the enhancements made to the Tmux environment, offering a seamless integration of powerful features and plugins.
