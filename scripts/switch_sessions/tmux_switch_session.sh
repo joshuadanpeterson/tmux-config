@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/env bash
 # Switches Tmux sessions
 
 tmuxsessions=$(tmux list-sessions -F "#{session_name}")
