@@ -12,7 +12,8 @@ tmux_switch_to_session() {
     fi
 }
 
-choice=$(printf "%s\n" "$tmuxsessions" | fzf-tmux -p 50%,70% | tr -d '\n')
+# Updated fzf-tmux command with preview
+choice=$(printf "%s\n" "$tmuxsessions" | fzf-tmux -p 50%,70% --preview 'tmux list-windows -t {}' | tr -d '\n')
 
 if [ -z "$choice" ]; then
     echo "No session selected. Exiting." >&2
